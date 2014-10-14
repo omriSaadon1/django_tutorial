@@ -1,0 +1,93 @@
+
+
+body {
+    /*background:  url("images/polling-research-firm-syracuse-ny.gif") no-repeat center right;*/
+    background-color: beige;
+    border: groove;
+}
+
+h1#main{
+    position: fixed;
+    color: darkgoldenrod;
+    top: 3%;
+    left: 45%;
+    font-size: 450%;
+}
+li a{
+    color: crimson;
+    font-size: 150%;
+}
+li{
+    display: ruby;
+    top:30%;
+    padding: 2%;
+}
+div.indexPage ul
+{
+    list-style-type: decimal;
+    border: dashed;
+    position: fixed;
+    top:27%;
+    left:35%;
+}
+
+a#homeButton{
+    position: relative;
+    color: crimson;
+    font-size: 150%;
+    left: 25%;
+    top:32%;
+}
+
+h1#detail{
+    position: fixed;
+    color: darkgoldenrod;
+    top: 3%;
+    left: 10%;
+    font-size: 250%;
+}
+h1#resH1{
+    position: fixed;
+    color: darkgoldenrod;
+    top: 3%;
+    left: 10%;
+    font-size: 250%;
+}
+
+div.choices{
+    position: fixed;
+    top: 15%;
+    left: 10%;
+    font-size: 250%;
+    color: cadetblue;
+}
+button#vote{
+    position: fixed;
+    margin-top: 4%;
+    width:15%;
+    height: 3.5%;
+    color:darkslategrey;
+    font-size: 45%;
+}
+input[type='radio'] {
+    transform: scale(2);
+}
+
+ul.results{
+    position: fixed;
+    margin:30%
+    padding:3%;
+    width: 20%;
+    top: 15%;
+    left: 10%;
+    font-size: 250%;
+    color: cadetblue;
+}
+
+a#homeButtonRes{
+    position: fixed;
+    color: crimson;
+    ont-family: "Arial";
+    font-size: 150%;
+    left: 25%;
+}
